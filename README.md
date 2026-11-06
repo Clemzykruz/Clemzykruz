@@ -33,3 +33,30 @@ I'm always open to learning, collaboration and opportunities to grow as a develo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Bookmark Landing Page
+
+A multi-section landing page for a bookmark management product, built as part of a Frontend Mentor challenge.
+
+- Implemented navigation, feature sections, browser download cards and FAQ content.
+- Practised translating a design into a functional web interface.
+
+**Live Demo:** Coming soon  
+**Source Code:** Coming soon
+
+---
+
+### 2. Project Tracking Intro Component
+
+A landing page based on a project-tracking dashboard design challenge from Frontend Mentor.
+
+- Built the introductory interface with navigation, promotional content and visual elements.
+- Practised translating a supplied design into a web page.
+
+**Live Demo:** Coming soon  
+**Source Code:** Coming soon
