@@ -60,3 +60,19 @@ A landing page based on a project-tracking dashboard design challenge from Front
 
 **Live Demo:** Coming soon  
 **Source Code:** Coming soon
+
+
+---
+
+## 🤝 Connect With Me
+
+I'm open to connecting with fellow developers, learning from others and exploring opportunities in software development.
+
+- **Email:** [Clemzykruz@gmail.com](mailto:Clemzykruz@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/clement-n-70a65b269/)
+
+---
+
+### 💡 A little reminder
+
+> Learning by building. Growing through experience. Improving with every project.
